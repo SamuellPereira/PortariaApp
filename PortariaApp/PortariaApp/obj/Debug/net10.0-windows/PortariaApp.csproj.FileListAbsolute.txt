@@ -17,13 +17,12 @@ D:\Desktop\novo projeto\PortariaApp\PortariaApp\obj\Debug\net10.0-windows\refint
 D:\Desktop\novo projeto\PortariaApp\PortariaApp\obj\Debug\net10.0-windows\PortariaApp.pdb
 D:\Desktop\novo projeto\PortariaApp\PortariaApp\obj\Debug\net10.0-windows\PortariaApp.genruntimeconfig.cache
 D:\Desktop\novo projeto\PortariaApp\PortariaApp\obj\Debug\net10.0-windows\ref\PortariaApp.dll
-D:\Desktop\port\PortariaApp\PortariaApp\bin\Debug\net10.0-windows\PortariaApp.exe
-D:\Desktop\port\PortariaApp\PortariaApp\bin\Debug\net10.0-windows\PortariaApp.deps.json
-D:\Desktop\port\PortariaApp\PortariaApp\bin\Debug\net10.0-windows\PortariaApp.runtimeconfig.json
-D:\Desktop\port\PortariaApp\PortariaApp\bin\Debug\net10.0-windows\PortariaApp.dll
-D:\Desktop\port\PortariaApp\PortariaApp\bin\Debug\net10.0-windows\PortariaApp.pdb
 D:\Desktop\port\PortariaApp\PortariaApp\obj\Debug\net10.0-windows\MainWindow.baml
+D:\Desktop\port\PortariaApp\PortariaApp\obj\Debug\net10.0-windows\Views\RegistroEntradaWindow.baml
+D:\Desktop\port\PortariaApp\PortariaApp\obj\Debug\net10.0-windows\Views\SaidaWindow.baml
 D:\Desktop\port\PortariaApp\PortariaApp\obj\Debug\net10.0-windows\MainWindow.g.cs
+D:\Desktop\port\PortariaApp\PortariaApp\obj\Debug\net10.0-windows\Views\RegistroEntradaWindow.g.cs
+D:\Desktop\port\PortariaApp\PortariaApp\obj\Debug\net10.0-windows\Views\SaidaWindow.g.cs
 D:\Desktop\port\PortariaApp\PortariaApp\obj\Debug\net10.0-windows\App.g.cs
 D:\Desktop\port\PortariaApp\PortariaApp\obj\Debug\net10.0-windows\PortariaApp_MarkupCompile.cache
 D:\Desktop\port\PortariaApp\PortariaApp\obj\Debug\net10.0-windows\PortariaApp.g.resources
@@ -31,6 +30,12 @@ D:\Desktop\port\PortariaApp\PortariaApp\obj\Debug\net10.0-windows\PortariaApp.Ge
 D:\Desktop\port\PortariaApp\PortariaApp\obj\Debug\net10.0-windows\PortariaApp.AssemblyInfoInputs.cache
 D:\Desktop\port\PortariaApp\PortariaApp\obj\Debug\net10.0-windows\PortariaApp.AssemblyInfo.cs
 D:\Desktop\port\PortariaApp\PortariaApp\obj\Debug\net10.0-windows\PortariaApp.csproj.CoreCompileInputs.cache
+D:\Desktop\port\PortariaApp\PortariaApp\obj\Debug\net10.0-windows\PortariaApp.sourcelink.json
+D:\Desktop\port\PortariaApp\PortariaApp\bin\Debug\net10.0-windows\PortariaApp.exe
+D:\Desktop\port\PortariaApp\PortariaApp\bin\Debug\net10.0-windows\PortariaApp.deps.json
+D:\Desktop\port\PortariaApp\PortariaApp\bin\Debug\net10.0-windows\PortariaApp.runtimeconfig.json
+D:\Desktop\port\PortariaApp\PortariaApp\bin\Debug\net10.0-windows\PortariaApp.dll
+D:\Desktop\port\PortariaApp\PortariaApp\bin\Debug\net10.0-windows\PortariaApp.pdb
 D:\Desktop\port\PortariaApp\PortariaApp\obj\Debug\net10.0-windows\PortariaApp.dll
 D:\Desktop\port\PortariaApp\PortariaApp\obj\Debug\net10.0-windows\refint\PortariaApp.dll
 D:\Desktop\port\PortariaApp\PortariaApp\obj\Debug\net10.0-windows\PortariaApp.pdb
